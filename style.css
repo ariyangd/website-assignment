@@ -1,0 +1,111 @@
+.nav{
+    color: black;
+    text-align: right;
+    margin-right: 10%;
+}
+#under-line{
+    text-decoration: none;
+    color: black;
+    font-family: 'Lobster', cursive;
+    padding-left: 3%;
+}
+.w-body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#f-half{
+    margin-top: 20%;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: xx-large;
+}
+p{
+    font-size: larger;
+    text-align: justify;
+}
+#font-color{
+    color: orange;
+}
+#back-color{
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    width: 35%;
+    margin-left: 0%;
+}
+#pic{
+    width: 100%;
+}
+#donload-pic{
+    width: 20px;
+    height: 20px;
+}
+#project{
+    color: orange;
+}
+
+.working-project{
+    margin-top: 2100px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.photos{
+    float:left;
+    width: 20%;
+    margin-left: 8% ;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 1px 1px 10px rgb(185, 184, 184);
+}    
+.font{
+    font-size: 15px;
+}
+#font-h1{
+    font-size: large;
+    text-align: center;
+}
+#pix{
+    margin-left: 25% ;
+}
+
+#shape{
+    margin-top: 20%;
+    width: 50%;
+    text-align: center;
+}
+#work{
+    color: white;
+    text-align: center;
+    padding-top: 140px;
+    padding-right: 350px;
+}
+
+.top-banner{
+    margin-top: 500px;
+    background-position: center;
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;  
+    background-size: 700px;
+    height: 300px;
+  
+}
+#new-color{
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    width: 7%;   
+}
+.chat{
+    text-align: right;
+}
+
